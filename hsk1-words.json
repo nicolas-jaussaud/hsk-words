@@ -1,0 +1,767 @@
+{
+	"零": { 
+		"pinyin": "líng",
+		"en": "zero",
+		"fr": ""
+	},
+	"一": { 
+		"pinyin": "yī",
+		"en": "one",
+		"fr": ""
+	},
+	"二": { 
+		"pinyin": "èr",
+		"en": "two",
+		"fr": ""
+	},
+	"三": { 
+		"pinyin": "sān",
+		"en": "three",
+		"fr": ""
+	},
+	"四": { 
+		"pinyin": "sì",
+		"en": "four",
+		"fr": ""
+	},
+	"五": { 
+		"pinyin": "wǔ",
+		"en": "five",
+		"fr": ""
+	},
+	"六": { 
+		"pinyin": "liù",
+		"en": "six",
+		"fr": ""
+	},
+	"七": { 
+		"pinyin": "qī",
+		"en": "seven",
+		"fr": ""
+	},
+	"八": { 
+		"pinyin": "bā",
+		"en": "eight",
+		"fr": ""
+	},
+	"九": { 
+		"pinyin": "jiǔ",
+		"en": "nine",
+		"fr": ""
+	},
+	"十": { 
+		"pinyin": "shí",
+		"en": "ten",
+		"fr": ""
+	},
+	"些": { 
+		"pinyin": "xiē",
+		"en": "some",
+		"fr": ""
+	},
+	"个": { 
+		"pinyin": "ge",
+		"en": "one, a, an",
+		"fr": ""
+	},
+	"块": { 
+		"pinyin": "kuài",
+		"en": "piece",
+		"fr": ""
+	},
+	"本": { 
+		"pinyin": "běn",
+		"en": "volume",
+		"fr": ""
+	},
+	"岁": { 
+		"pinyin": "suì",
+		"en": "year",
+		"fr": ""
+	},
+	"茶": { 
+		"pinyin": "chá",
+		"en": "tea",
+		"fr": ""
+	},
+	"水果": { 
+		"pinyin": "shuǐguǒ",
+		"en": "fruit",
+		"fr": ""
+	},
+	"苹果": { 
+		"pinyin": "píngguǒ",
+		"en": "apple",
+		"fr": ""
+	},
+	"水": { 
+		"pinyin": "shuǐ",
+		"en": "water",
+		"fr": ""
+	},
+	"菜": { 
+		"pinyin": "cài",
+		"en": "vegetable",
+		"fr": ""
+	},
+	"米饭": { 
+		"pinyin": "mǐfàn",
+		"en": "rice",
+		"fr": ""
+	},
+	"杯子": { 
+		"pinyin": "bēizi",
+		"en": "cup",
+		"fr": ""
+	},
+	"家": { 
+		"pinyin": "jiā",
+		"en": "home",
+		"fr": ""
+	},
+	"饭店": { 
+		"pinyin": "fàndiàn",
+		"en": "restaurant",
+		"fr": ""
+	},
+	"学校": { 
+		"pinyin": "xuéxiào",
+		"en": "school",
+		"fr": ""
+	},
+	"商店": { 
+		"pinyin": "shāngdiàn",
+		"en": "store",
+		"fr": ""
+	},
+	"医院": { 
+		"pinyin": "yīyuàn",
+		"en": "hospital",
+		"fr": ""
+	},
+	"火车站": { 
+		"pinyin": "huǒchēzhàn",
+		"en": "train station",
+		"fr": ""
+	},
+	"上午": { 
+		"pinyin": "shàngwǔ",
+		"en": "morning",
+		"fr": ""
+	},
+	"中午": { 
+		"pinyin": "zhōngwǔ",
+		"en": "noon",
+		"fr": ""
+	},
+	"下午": { 
+		"pinyin": "xiàwǔ",
+		"en": "afternoon",
+		"fr": ""
+	},
+	"今天": { 
+		"pinyin": "jīntiān",
+		"en": "today",
+		"fr": ""
+	},
+	"明天": { 
+		"pinyin": "míngtiān",
+		"en": "tomorrow",
+		"fr": ""
+	},
+	"昨天": { 
+		"pinyin": "zuòtiān",
+		"en": "yesterday",
+		"fr": ""
+	},
+	"时候": { 
+		"pinyin": "shíhóu",
+		"en": "time",
+		"fr": ""
+	},
+	"点": { 
+		"pinyin": "diǎn",
+		"en": "dot, spot",
+		"fr": ""
+	},
+	"现在": { 
+		"pinyin": "xiànzài",
+		"en": "now",
+		"fr": ""
+	},
+	"分钟": { 
+		"pinyin": "fēnzhōng",
+		"en": "minute",
+		"fr": ""
+	},
+	"日": { 
+		"pinyin": "rì",
+		"en": "day",
+		"fr": ""
+	},
+	"星期": { 
+		"pinyin": "xīngqī",
+		"en": "week",
+		"fr": ""
+	},
+	"月": { 
+		"pinyin": "yuè",
+		"en": "month",
+		"fr": ""
+	},
+	"年": { 
+		"pinyin": "nián",
+		"en": "year",
+		"fr": ""
+	},
+	"后面": { 
+		"pinyin": "hòumiàn",
+		"en": "behind",
+		"fr": ""
+	},
+	"前面": { 
+		"pinyin": "qiánmiàn",
+		"en": "front",
+		"fr": ""
+	},
+	"上": { 
+		"pinyin": "shàng",
+		"en": "up",
+		"fr": ""
+	},
+	"下": { 
+		"pinyin": "xià",
+		"en": "down",
+		"fr": ""
+	},
+	"里": { 
+		"pinyin": "lǐmiàn",
+		"en": "inside",
+		"fr": ""
+	},
+	"衣服": { 
+		"pinyin": "yīfu",
+		"en": "cloth",
+		"fr": ""
+	},
+	"老师": { 
+		"pinyin": "lǎoshī",
+		"en": "teacher",
+		"fr": ""
+	},
+	"同学": { 
+		"pinyin": "tóngxué",
+		"en": "shoolmate",
+		"fr": ""
+	},
+	"学生": { 
+		"pinyin": "xuéshēng",
+		"en": "student",
+		"fr": ""
+	},
+	"医生": { 
+		"pinyin": "yīshēng",
+		"en": "doctor",
+		"fr": ""
+	},
+	"小姐": { 
+		"pinyin": "xiǎojiě",
+		"en": "Miss",
+		"fr": ""
+	},
+	"先生": { 
+		"pinyin": "xiānshēng",
+		"en": "Sir",
+		"fr": ""
+	},
+	"朋友": { 
+		"pinyin": "péngyǒu",
+		"en": "friend",
+		"fr": ""
+	},
+	"爸爸": { 
+		"pinyin": "bàba",
+		"en": "father",
+		"fr": ""
+	},
+	"妈妈": { 
+		"pinyin": "māma",
+		"en": "mother",
+		"fr": ""
+	},
+	"儿子": { 
+		"pinyin": "érzi",
+		"en": "son",
+		"fr": ""
+	},
+	"女儿": { 
+		"pinyin": "nǚér",
+		"en": "daughter",
+		"fr": ""
+	},
+	"汉语": { 
+		"pinyin": "hànyǔ",
+		"en": "mandarin Chinese",
+		"fr": ""
+	},
+	"字": { 
+		"pinyin": "zì",
+		"en": "character",
+		"fr": ""
+	},
+	"中国": { 
+		"pinyin": "zhōngguò",
+		"en": "China",
+		"fr": ""
+	},
+	"北京": { 
+		"pinyin": "běijīng",
+		"en": "Beijing",
+		"fr": ""
+	},
+	"猫": { 
+		"pinyin": "māo",
+		"en": "cat",
+		"fr": ""
+	},
+	"狗": { 
+		"pinyin": "gǒu",
+		"en": "dog",
+		"fr": ""
+	},
+	"人": { 
+		"pinyin": "rén",
+		"en": "person",
+		"fr": ""
+	},
+	"名字": { 
+		"pinyin": "míngzi",
+		"en": "name",
+		"fr": ""
+	},
+	"东西": { 
+		"pinyin": "dōngxī",
+		"en": "thing",
+		"fr": ""
+	},
+	"书": { 
+		"pinyin": "shū",
+		"en": "book",
+		"fr": ""
+	},
+	"椅子": { 
+		"pinyin": "yǐzi",
+		"en": "chair",
+		"fr": ""
+	},
+	"桌子": { 
+		"pinyin": "zhuōzi",
+		"en": "desk",
+		"fr": ""
+	},
+	"电脑": { 
+		"pinyin": "diànnǎo",
+		"en": "computer",
+		"fr": ""
+	},
+	"电视": { 
+		"pinyin": "diànshì",
+		"en": "television",
+		"fr": ""
+	},
+	"电影": { 
+		"pinyin": "diànyǐng",
+		"en": "movie",
+		"fr": ""
+	},
+	"飞机": { 
+		"pinyin": "fēijī",
+		"en": "airplane",
+		"fr": ""
+	},
+	"出租车": { 
+		"pinyin": "chūzūchē",
+		"en": "taxi",
+		"fr": ""
+	},
+	"天气": { 
+		"pinyin": "tiānqì",
+		"en": "weather",
+		"fr": ""
+	},
+	"钱": { 
+		"pinyin": "qián",
+		"en": "money",
+		"fr": ""
+	},
+	"冷": { 
+		"pinyin": "lěng",
+		"en": "cold",
+		"fr": ""
+	},
+	"热": { 
+		"pinyin": "rè",
+		"en": "hot",
+		"fr": ""
+	},
+	"好": { 
+		"pinyin": "hǎo",
+		"en": "good",
+		"fr": ""
+	},
+	"高兴": { 
+		"pinyin": "gāoxìng",
+		"en": "happy",
+		"fr": ""
+	},
+	"漂亮": { 
+		"pinyin": "piàoliàng",
+		"en": "beautiful",
+		"fr": ""
+	},
+	"少": { 
+		"pinyin": "shǎo",
+		"en": "few, little",
+		"fr": ""
+	},
+	"多": { 
+		"pinyin": "duō",
+		"en": "many, much",
+		"fr": ""
+	},
+	"小": { 
+		"pinyin": "xiǎo",
+		"en": "small",
+		"fr": ""
+	},
+	"大": { 
+		"pinyin": "dà",
+		"en": "big",
+		"fr": ""
+	},
+	"学习": { 
+		"pinyin": "xuéxí",
+		"en": "study",
+		"fr": ""
+	},
+	"工作": { 
+		"pinyin": "gōngzuò",
+		"en": "work",
+		"fr": ""
+	},
+	"看见": { 
+		"pinyin": "kànjiàn",
+		"en": "see",
+		"fr": ""
+	},
+	"看": { 
+		"pinyin": "kàn",
+		"en": "look",
+		"fr": ""
+	},
+	"读": { 
+		"pinyin": "dú",
+		"en": "read",
+		"fr": ""
+	},
+	"写": { 
+		"pinyin": "xiě",
+		"en": "write",
+		"fr": ""
+	},
+	"听": { 
+		"pinyin": "tīng",
+		"en": "listen",
+		"fr": ""
+	},
+	"说话": { 
+		"pinyin": "shuōhuà",
+		"en": "speak",
+		"fr": ""
+	},
+	"叫": { 
+		"pinyin": "jiào",
+		"en": "call",
+		"fr": ""
+	},
+	"请": { 
+		"pinyin": "qǐng",
+		"en": "please",
+		"fr": ""
+	},
+	"不客气": { 
+		"pinyin": "búkèqì",
+		"en": "you are welcome",
+		"fr": ""
+	},
+	"谢谢": { 
+		"pinyin": "xièxie",
+		"en": "thank",
+		"fr": ""
+	},
+	"没关系": { 
+		"pinyin": "méiguānxì",
+		"en": "It doesn’t matter",
+		"fr": ""
+	},
+	"对不起": { 
+		"pinyin": "duìbùqǐ",
+		"en": "sorry",
+		"fr": ""
+	},
+	"再见": { 
+		"pinyin": "zàijiàn",
+		"en": "good-bye",
+		"fr": ""
+	},
+	"做": { 
+		"pinyin": "zuò",
+		"en": "do",
+		"fr": ""
+	},
+	"是": { 
+		"pinyin": "shì",
+		"en": "be (am, is, are)",
+		"fr": ""
+	},
+	"有": { 
+		"pinyin": "yǒu",
+		"en": "have",
+		"fr": ""
+	},
+	"想": { 
+		"pinyin": "xiǎng",
+		"en": "want",
+		"fr": ""
+	},
+	"能": { 
+		"pinyin": "néng",
+		"en": "can, be able to",
+		"fr": ""
+	},
+	"会": { 
+		"pinyin": "huì",
+		"en": "can",
+		"fr": ""
+	},
+	"住": { 
+		"pinyin": "zhù",
+		"en": "live",
+		"fr": ""
+	},
+	"认识": { 
+		"pinyin": "rènshi",
+		"en": "know",
+		"fr": ""
+	},
+	"来": { 
+		"pinyin": "lái",
+		"en": "come",
+		"fr": ""
+	},
+	"去": { 
+		"pinyin": "qù",
+		"en": "go",
+		"fr": ""
+	},
+	"回": { 
+		"pinyin": "huí",
+		"en": "return",
+		"fr": ""
+	},
+	"下雨": { 
+		"pinyin": "xiàyǔ",
+		"en": "rain",
+		"fr": ""
+	},
+	"喜欢": { 
+		"pinyin": "xǐhuān",
+		"en": "to like",
+		"fr": ""
+	},
+	"爱": { 
+		"pinyin": "ài",
+		"en": "love",
+		"fr": ""
+	},
+	"打电话": { 
+		"pinyin": "dǎdiànhuà",
+		"en": "call up",
+		"fr": ""
+	},
+	"买": { 
+		"pinyin": "mǎi",
+		"en": "buy",
+		"fr": ""
+	},
+	"睡觉": { 
+		"pinyin": "shuìjiào",
+		"en": "sleep",
+		"fr": ""
+	},
+	"坐": { 
+		"pinyin": "zuò",
+		"en": "sit",
+		"fr": ""
+	},
+	"喝": { 
+		"pinyin": "hē",
+		"en": "drink",
+		"fr": ""
+	},
+	"吃": { 
+		"pinyin": "chī",
+		"en": "eat",
+		"fr": ""
+	},
+	"开": { 
+		"pinyin": "kāi",
+		"en": "open",
+		"fr": ""
+	},
+	"都": { 
+		"pinyin": "dōu",
+		"en": "all",
+		"fr": ""
+	},
+	"没": { 
+		"pinyin": "méi",
+		"en": "no",
+		"fr": ""
+	},
+	"不": { 
+		"pinyin": "bù",
+		"en": "no",
+		"fr": ""
+	},
+	"很": { 
+		"pinyin": "hěn",
+		"en": "quite, very",
+		"fr": ""
+	},
+	"太": { 
+		"pinyin": "tài",
+		"en": "too",
+		"fr": ""
+	},
+	"几": { 
+		"pinyin": "jǐ",
+		"en": "a few, how many",
+		"fr": ""
+	},
+	"多少": { 
+		"pinyin": "duōshǎo",
+		"en": "how much",
+		"fr": ""
+	},
+	"怎么": { 
+		"pinyin": "zěnme",
+		"en": "how",
+		"fr": ""
+	},
+	"怎么样": { 
+		"pinyin": "zěnmeyàng",
+		"en": "how about",
+		"fr": ""
+	},
+	"哪（哪儿)": { 
+		"pinyin": "nǎ (nǎr)",
+		"en": "where",
+		"fr": ""
+	},
+	"什么": { 
+		"pinyin": "shěnme",
+		"en": "what, why",
+		"fr": ""
+	},
+	"谁": { 
+		"pinyin": "shéi",
+		"en": "who",
+		"fr": ""
+	},
+	"那 (那儿)": { 
+		"pinyin": "nà (nàr)",
+		"en": "there, that",
+		"fr": ""
+	},
+	"这 (这儿)": { 
+		"pinyin": "zhè (zhèr)",
+		"en": "here, this",
+		"fr": ""
+	},
+	"我": { 
+		"pinyin": "wǒ",
+		"en": "I, me",
+		"fr": ""
+	},
+	"我们": { 
+		"pinyin": "wǒmen",
+		"en": "we, us (pl.)",
+		"fr": ""
+	},
+	"你": { 
+		"pinyin": "nǐ",
+		"en": "you",
+		"fr": ""
+	},
+	"你们": { 
+		"pinyin": "nǐmen",
+		"en": "you (pl.)",
+		"fr": ""
+	},
+	"他": { 
+		"pinyin": "tā",
+		"en": "he, him",
+		"fr": ""
+	},
+	"她": { 
+		"pinyin": "tā",
+		"en": "she, her",
+		"fr": ""
+	},
+	"他们": { 
+		"pinyin": "tāmen",
+		"en": "they (male+female / male, pl.)",
+		"fr": ""
+	},
+	"她们": { 
+		"pinyin": "tāmen",
+		"en": "they (females, pl.)",
+		"fr": ""
+	},
+	"和": { 
+		"pinyin": "hé",
+		"en": "and",
+		"fr": ""
+	},
+	"了": { 
+		"pinyin": "le",
+		"en": "",
+		"fr": ""
+	},
+	"吗": { 
+		"pinyin": "ma",
+		"en": "",
+		"fr": ""
+	},
+	"的": { 
+		"pinyin": "de",
+		"en": "",
+		"fr": ""
+	},
+	"呢": { 
+		"pinyin": "ne",
+		"en": "",
+		"fr": ""
+	},
+	"在": { 
+		"pinyin": "zài",
+		"en": "in, at",
+		"fr": ""
+	},
+	"喂": { 
+		"pinyin": "wèi",
+		"en": "hello",
+		"fr": ""
+	},
+}
