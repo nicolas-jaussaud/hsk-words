@@ -710,7 +710,7 @@
    },
    "漂亮":{
       "translations":{
-         "en": "beautiful",
+         "en": "hermoso",
          "es": "bonito",
          "fr": "joli"
       },
@@ -1180,7 +1180,7 @@
    "那":{
       "translations":{
          "en": "there, that",
-         "es": "aquel",
+         "es": "ahí, eso, esa",
          "fr": "ce, cet, celui-là"
       },
       "pinyin": "nà"
@@ -1188,7 +1188,7 @@
    "这":{
       "translations":{
          "en": "here, this",
-         "es": "éste, ese",
+         "es": "aquí, esto",
          "fr": "ce, cet, cette, ces"
       },
       "pinyin": "zhè",
